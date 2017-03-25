@@ -1,0 +1,12 @@
+body {
+background: white;
+}
+.lista-principal {
+	list-style: none;
+}
+.lista-principal a {
+	color: red;
+}
+.lista-principal a:hover {
+	color: black;
+}
