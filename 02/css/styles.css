@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+</style>
+    
+body{
+    text-align: center;
+}
+
+.content{
+    margin: 0 auto;
+    text-align: center;
+    width: 600px;
+    background-image: url("../img/hoja.png");
+    height: 842px;
+}
+
+.colibri {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -115px;
+}
+
+
+
+.hoja {
+    position: ;
+}
+.imagen1 {
+    height: 100px;
+    width: 100px; 
+    /*padding-left: 350px;
+    margin-top: 100px;*/
+
+}
+
+.imagen2 {
+    height: 1000px;
+    width: 600px;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    position: center;
+    margin-top: 0px;
+    color: green;
+}
+
+p {
+    color: grey;
+}
+.parrafo {
+    color: gray;
+    margin: 0px 50px 0px 50px;
+    padding: inherit;
+        position: relative;
+}

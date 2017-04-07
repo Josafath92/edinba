@@ -1,0 +1,20 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+</style>
+    
+{
+    background-color: red
+
+}
+.texto {
+	text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size:50px;
+    color: white;
+    position: center;
+    font-weight: bolder;
+    margin-left: 50px;
+    letter-spacing: 20px;
+
+
+}

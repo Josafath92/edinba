@@ -1,0 +1,16 @@
+.graficoanimado {
+    width: 50%;
+    margin: 0 auto;
+}
+.ojo {
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    -o-transform-origin: center center;
+    -moz-transform-origin: center center;
+animation-delay: 1s;
+}
+
+
+.hover{
+        stroke: red;
+}
